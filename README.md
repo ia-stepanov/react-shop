@@ -47,7 +47,7 @@ React Movies — это эмуляция интернет-магазина, на
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![react-shop](https://user-images.githubusercontent.com/86494748/166702213-7bf29a9a-6b78-4962-afb0-8116323deed2.jpg)](https://ia-stepanov.github.io/react-shop/)
+[![react-shop](https://user-images.githubusercontent.com/86494748/166702945-d10ebe0f-b9dd-40ac-97ac-793ea3c2d563.jpg)](https://ia-stepanov.github.io/react-shop/)
 
 </details>
 
