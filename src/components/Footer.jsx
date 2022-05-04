@@ -1,7 +1,7 @@
 function Footer() {
   return (
-    <footer className="page-footer blue lighten-1">
-      <div className="footer-copyright blue darken-1">
+    <footer className="page-footer blue darken-1">
+      <div className="footer-copyright blue darken-2">
         <div className="container white-text">
           © {new Date().getFullYear()}. Игорь Степанов
           <a className="white-text right" href="https://t.me/ia_stepanov">Telegram</a>
