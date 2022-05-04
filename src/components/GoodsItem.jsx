@@ -12,7 +12,7 @@ function GoodsItem(props) {
       </div>
       <div className="card-action">
         <button
-          className="btn blue accent-4"
+          className="btn blue accent-3"
           onClick={() =>
             addToBasket({
               id,
