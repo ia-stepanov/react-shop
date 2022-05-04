@@ -29,7 +29,10 @@ function BasketList(props) {
       ) : (
         <li className="collection-item">Корзина пуста</li>
       )}
-      <li className="collection-item active blue darken-1">Общая стоимость: {totalPrice} ₽</li>
+      <li className="collection-item active blue darken-1">Общая стоимость: {totalPrice} ₽ </li>
+      <li className="collection-item center">
+        <button className="btn blue accent-4">Оформить заказ</button>
+      </li>
       <i className="material-icons basket-close" onClick={handleBasketShow}>
         clear
       </i>
